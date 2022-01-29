@@ -4,9 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Blake Han
 
-### More Information
+I'm a sophomore at NYU College of Arts and Sciences studying computer science and math  
+I'm familiar with Java, Python, C, and Javascript.
 
-A place to include any other types of information that you'd like to include about yourself.
+> This blog site is for my open source class, and I'm looking forward to be able to share my experience and maybe help out others at the meantime!!
+
+Here is a link to [my **github page**](https://github.com/BlakeHan01)
 
