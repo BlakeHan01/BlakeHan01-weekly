@@ -1,0 +1,40 @@
+I"<h2 id="my-thoughts-on-open-source">My thoughts on open source</h2>
+
+<hr />
+
+<p>When I hear about the term “open source”, the first thing that comes into my mind is how people can collaborate on Github and perfect a open source project. Through a copyleft license, people can freely use other’s works, and also make modifications and contribute to the existing project. I think one of the big advantages of open source projects coding wise is how programmers with little experience on a certain programming language or a certain task can learn from other’s codes, and it’s becoming more probable for large projects to move on swiftly since many people can contribute to the same project and fix bugs together.</p>
+
+<h2 id="why-take-open-source-software-development-course">Why take Open Source Software Development Course?</h2>
+
+<hr />
+
+<p>With very little knowledge about open source, and almost no real life application of the skillsets that I learned from other courses, I hope that this course can serve as the beginning of applying my knowledge to projects that’s not in the form of assignments and labs. Compared to other CS courses, I think this course would be challenging in a very different way. It requires my understanding of other’s code and find out ways to improve on the basis of already running code. I think understanding other’s code is a great way for me to hone my programming skills and also a crucial aspect of jobs in software development. In a nutshell, veryone nowadays uses open source projects, and as a user who uses tens of open source projects on a daily basis, I would like to join this growing community of programmers who contribute to open source projects.</p>
+
+<h2 id="some-open-source-projects-i-use">Some open source projects I use</h2>
+
+<hr />
+
+<h3 id="ohmyzsh"><a href="https://github.com/ohmyzsh/ohmyzsh">ohmyzsh</a></h3>
+
+<blockquote>
+  <p>The newest open source project that I cloned from github is ohmyzsh. It serves as a replacement for the build-in terminal with plugins such as auto highlighting and autofill, which are quite convenient. It also has a much better looking interface, and hopeful it makes my time with terminal more enjoyable.</p>
+</blockquote>
+
+<h3 id="vscode"><a href="https://code.visualstudio.com/">vscode</a></h3>
+
+<blockquote>
+  <p>I use vscode all the time as it’s one of the most popular code editor out there for Mac users. I’m also editing all my blog contents in vscode first, and then pushing my new commits to my github page to update the blog contents:)</p>
+</blockquote>
+
+<h3 id="wikipedia"><a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia</a></h3>
+
+<blockquote>
+  <p>Duh!! Come on, everyone uses Wikipedia, and we all know why it’s so popular.</p>
+</blockquote>
+
+<h3 id="javascript"><a href="https://www.javascript.com/">Javascript</a></h3>
+
+<blockquote>
+  <p>Just got into it starting this semester through the web full-stack development course. I will definitely be contributing to JS repos in the future because of the sheer amount of them!</p>
+</blockquote>
+:ET
