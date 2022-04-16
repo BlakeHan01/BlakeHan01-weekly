@@ -33,5 +33,10 @@ Replace the first row with your own contribution.
 March 28th    |    https://en.wikipedia.org/w/index.php?title=AS2&oldid=1079873807 |  Wikipedia | Tags: Visual edit: Switched Newcomer task Newcomer task: copyedit|
 March 31st | https://github.com/oppia/oppia/issues/15248 | Oppia | Opened an issue reporting error encountered when running coverage test |
 April 2nd | https://github.com/tailwindlabs/tailwindcss/discussions/8026 | Tailwind CSS | Opened a discussion about an idea of making a more user-friendly instrction page|
+April 12th | https://www.openstreetmap.org/changeset/119630757#map=19/33.86951/-118.06120 | OpenStreetMap| Added healthcare facility I went to as a high school student|
+April 12th | https://www.openstreetmap.org/edit?changeset=119630757#map=18/33.87104/-118.06287 | OpenStreetMap | Added two buildings | 
+April 12th | https://en.wikipedia.org/w/index.php?title=Engagio&oldid=1082340450 | Wikipedia | Copyedit|
+April 12th | https://en.wikipedia.org/w/index.php?title=Devialet&oldid=1082341063 | Wikipedia | Copyedit|
+April 12th| https://en.wikipedia.org/w/index.php?title=Root_cause_analysis&oldid=1082341479 | Wikipedia | Changed tone to encyclopedic |
 
 
