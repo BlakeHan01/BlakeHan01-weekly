@@ -38,5 +38,7 @@ April 12th | https://www.openstreetmap.org/edit?changeset=119630757#map=18/33.87
 April 12th | https://en.wikipedia.org/w/index.php?title=Engagio&oldid=1082340450 | Wikipedia | Copyedit|
 April 12th | https://en.wikipedia.org/w/index.php?title=Devialet&oldid=1082341063 | Wikipedia | Copyedit|
 April 12th| https://en.wikipedia.org/w/index.php?title=Root_cause_analysis&oldid=1082341479 | Wikipedia | Changed tone to encyclopedic |
+April 20th | https://stackoverflow.com/questions/71945387/in-sql-server-how-to-reduce-query-execution-time/71945429#71945429 | Stackoverflow | Answered my first question on Stackoverflow
+April 22nd | https://stackoverflow.com/questions/71975444/express-middleware-isnt-being-accessed/71975525#71975525 | Stackoverflow | Posted a question and answered the question after figuring it out |
 
 
