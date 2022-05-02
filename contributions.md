@@ -41,5 +41,7 @@ April 12th| https://en.wikipedia.org/w/index.php?title=Root_cause_analysis&oldid
 April 20th | https://stackoverflow.com/questions/71945387/in-sql-server-how-to-reduce-query-execution-time/71945429#71945429 | Stackoverflow | Answered my first question on Stackoverflow
 April 22nd | https://stackoverflow.com/questions/71975444/express-middleware-isnt-being-accessed/71975525#71975525 | Stackoverflow | Posted a question and answered the question after figuring it out |
 April 27th | https://stackoverflow.com/questions/72034205/decide-the-smallest-even-number-from-2-input-correct-it-if-the-input-number-is/72034481#72034481 | Stackoverflow| Answered a question about Javascript | 
+May 2nd | https://www.openstreetmap.org/changeset/120472313#map=16/33.8771/-118.0623 | OpenStreetMap | Added seven buildings to my high school city |
+May 2nd | https://stackoverflow.com/questions/72090443/how-to-configure-typescript-eslintrc-to-ignore-error | StackOverflow | Question on StackOverflow |
 
 
