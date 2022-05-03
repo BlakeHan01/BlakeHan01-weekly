@@ -43,5 +43,6 @@ April 22nd | https://stackoverflow.com/questions/71975444/express-middleware-isn
 April 27th | https://stackoverflow.com/questions/72034205/decide-the-smallest-even-number-from-2-input-correct-it-if-the-input-number-is/72034481#72034481 | Stackoverflow| Answered a question about Javascript | 
 May 2nd | https://www.openstreetmap.org/changeset/120472313#map=16/33.8771/-118.0623 | OpenStreetMap | Added seven buildings to my high school city |
 May 2nd | https://stackoverflow.com/questions/72090443/how-to-configure-typescript-eslintrc-to-ignore-error | StackOverflow | Question on StackOverflow |
+May 3rd | https://github.com/ossd-sp22/themify/pull/1 | Themify | Made a pull request and added a new tab with new features |
 
 
