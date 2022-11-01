@@ -9,14 +9,14 @@ name: Blake Han
 
 # CUSTOMIZE
 # Short bio or description about you (displayed in the header)
-description: Sophomore at NYU majoring in CS and Math
+description: Junior at NYU majoring in CS and Math
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/88338598?s=400&u=3f831cb090d278fda1bc4f0d839afa65e13c4c39&v=4
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
-
+markdown: kramdown
 # CUSTOMIZE
 #
 # Flags below are optional - customize them if you wish

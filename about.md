@@ -6,10 +6,13 @@ permalink: /about/
 
 ### Blake Han
 
-I'm a sophomore at NYU College of Arts and Sciences studying computer science and math  
-I'm familiar with Java, Python, C, and Javascript.
+I'm a junior at NYU College of Arts and Sciences studying computer science and math.  
+My interests lie in full-stack development, and as a student, I'm exploring more fields such as machine learning and artificial intelligence. I'm also expanding my knowledge of full-stack development by applying what I learned to projects, research papers, and tutoring.
 
-> This blog site is for my open source class, and I'm looking forward to be able to share my experience and maybe help out others at the meantime!!
 
-Here is a link to [my **github page**](https://github.com/BlakeHan01)
+In summer 2022, I worked at Econage as a full-stack development intern, and I'm applying for winter, spring, and fall 2023 internships.
+
+
+
+Here is a link to [ **my portfolio**](https://blake-han-portfolio.herokuapp.com/)
 
